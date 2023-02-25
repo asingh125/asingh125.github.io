@@ -96,11 +96,3 @@ A user is notified when someone sends them a friend request. Also, a post is cre
 * Resizable/lockable visualizer through react flow library
 * Friend requests (sends notification when a user requests to be friends with someone else)
 * Notifications (friend request notifications, chat notifications when a user is added to a group)
-
-## To start the project:
-
-*After installing all dependencines in root, client, and server through npm install (you may have to use npm install --force in client folder)*
-
-cd into server, run "node app.js"
-
-In another terminal, cd into client, run "npm start"
